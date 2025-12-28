@@ -2,17 +2,17 @@
 title: "Statistics - Math 2606"
 ---
 
-# How's this
+# Our uncertain view
 
-## Probability Review
+## A brief discussion of probability
 
 ### asdfsdf
 
 ### asdfasdf
 
-## Expectations and Moments
+## What to expect when you're expecting
 
-## Limit theorems
+## Moral arcs
 
 ## Simulating random variables
 
