@@ -1,11 +1,20 @@
 ---
-title: "Stats2606"
+title: "Statistics - Math 2606"
 ---
 
-This is a Quarto website.
+# How's this
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Probability Review
 
-```{r}
-1 + 1
-```
+### asdfsdf
+
+### asdfasdf
+
+## Expectations and Moments
+
+## Limit theorems
+
+## Simulating random variables
+
+
+
